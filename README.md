@@ -1,2 +1,2 @@
-# data-analyst-portfolio
-Python, Pandas ve finansal verilerle veri analizi projelerim.
+# softito-data-analyst-portfolio
+Softito da yaptığım Python, Pandas ve Power BI vb. veri analizi projelerim.
